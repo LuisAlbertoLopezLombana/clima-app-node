@@ -10,7 +10,7 @@ Ejecutar el siguiente comando para instalar los paquetes.
 npm install
 ```
 
-###Ejemplo:
+### Ejemplo:
 
 ```
 node app -d "New York"
